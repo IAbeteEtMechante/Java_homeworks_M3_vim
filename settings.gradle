@@ -15,4 +15,4 @@ include 'api'
 include 'services:webservice'
 */
 
-rootProject.name = 'Java_homeworks_M3'
+rootProject.name = 'Java_homeworks_M3_vim'
